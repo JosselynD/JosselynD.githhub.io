@@ -9,4 +9,4 @@ function compute()
         alert('If you deposit ' + principal + ','+ ' at an interest rate of ' + rate + '. ' + 'You will receive an amount of ' + interest + ', in the year ' + year);
      }
      else alert ('Enter a positive number')
-    }       
+    }
